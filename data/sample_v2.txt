@@ -1,0 +1,8 @@
+ONLINE SHOPPING SYSTEM — SRS V2
+
+FR-01 Authentication: Users shall register and log in using mobile number and One-Time Password (OTP).
+FR-02 Payment: Customers shall be able to make payments using an integrated online payment gateway.
+FR-03 Notifications: The system shall send order confirmation notifications through email and SMS.
+FR-04 Orders: Customers shall be able to place orders and view order history.
+FR-05 Product Search: Customers shall be able to search products by product name and product category.
+FR-06 Security: OTP verification shall be completed before the user is authenticated.

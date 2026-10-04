@@ -1,1 +1,7 @@
+ONLINE SHOPPING SYSTEM — SRS V1
 
+FR-01 Authentication: Users shall register and log in using email address and password.
+FR-02 Payment: Customers shall be able to select Cash on Delivery (COD) as the payment method.
+FR-03 Notifications: The system shall send order confirmation notifications through email.
+FR-04 Orders: Customers shall be able to place orders and view order history.
+FR-05 Product Search: Customers shall be able to search products by product name.
